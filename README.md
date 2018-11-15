@@ -10,5 +10,5 @@ Many options related to the feature extraction, the architecure of audio, visual
 Don't hesitate to contact me for more details. 
 
 Thomas Hueber, Ph. D. 
-CNRS reasearch, GIPSA-lab, Grenoble, France
+CNRS researcher, GIPSA-lab, Grenoble, France
 thomas.hueber@gipsa-lab.fr
